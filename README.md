@@ -1,4 +1,4 @@
-# scraping-quotes
+# Scraping-Quotes & Browser Automation with Selenium
 A Quote Scraper
 
 THINGS DONE IN REPO:
